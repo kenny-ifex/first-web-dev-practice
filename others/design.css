@@ -1,0 +1,21 @@
+header{
+    margin-bottom: 15px;
+}
+.one{
+    width: 300px;
+    display:inline-block;
+}
+img{
+    width: 300px;
+    margin-right: 20px;
+}
+*{
+    margin: 0;
+}
+p{
+    margin-bottom: 10px;
+}
+.cover{width: 650px;
+    display: inline;
+
+}
